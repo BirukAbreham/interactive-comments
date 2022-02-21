@@ -50,6 +50,7 @@ export default {
             },
             username: "ramsesmiron",
           },
+          replies: []
         },
         {
           id: 4,
@@ -65,6 +66,7 @@ export default {
             },
             username: "juliusomo",
           },
+          replies: []
         },
       ],
     },
