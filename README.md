@@ -12,7 +12,7 @@ The challenge requires the design to be able to:
 
 ## Links
 
--   Live Site URL: [Interactive Comments](https://countries-flags-six.vercel.app/)
+-   Live Site URL: [Interactive Comments](https://interactive-comments-lovat.vercel.app/)
 
 ## My Process
 
